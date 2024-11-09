@@ -13,6 +13,6 @@ filename: business-measurement#87942.md
   <img src="mkyas1.png" />
 </body>
 
-  
+
 </html>
   

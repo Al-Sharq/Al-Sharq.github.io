@@ -1,6 +1,6 @@
 ---
 layout: page
-title: businessmeasurement
+title: أهلاً بك
 permalink: /businessmeasurement84688/
 subtitle: ‎‎‎‎
 ---
@@ -12,7 +12,7 @@ subtitle: ‎‎‎‎
   </title>
 </head>
 <body>
-  <img src="mkyas2.png" />
+  <img src="https://i.ibb.co/bHVdm7p/mkyas2.png" />
 </body>
 
 

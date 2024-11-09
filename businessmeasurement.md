@@ -1,8 +1,19 @@
 ---
-title: PAGE TITLE HERE
-layout: template
-filename: business-measurement#87942.md
---- 
+layout: page
+title: businessmeasurement
+permalink: /businessmeasurement/
+---
+
+## About
+
+WebJeda is a web designing company
+.
+.
+.
+
+**Disclaimer:** This website is under constant modification.
+If you find something isn't right then,
+I might be doing some change in the back-end.
 <html>
 <head>
   <title>

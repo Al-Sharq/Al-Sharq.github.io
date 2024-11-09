@@ -1,7 +1,7 @@
 ---
 layout: page
 title: businessmeasurement
-permalink: /businessmeasurement/
+permalink: /businessmeasurement84687/
 subtitle: ‎‎‎‎
 ---
 

@@ -11,7 +11,10 @@ subtitle: ‎‎‎‎
 </head>
 <body>
 
-<iframesrc="taykes1.pdf" width="100%" height="100%"></iframe>
+
+<object>
+    <object data="taykes1.pdf" width="1000" height="1000" type='application/pdf'>   
+    </object>
 
 
 </body>

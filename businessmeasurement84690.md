@@ -10,7 +10,7 @@ subtitle: ‎‎‎‎
     <link rel="shortcut icon" type="image/png" href="{{ 'favicon.png' | relative_url }}">
 </head>
 <body>
-  <pdf src="" />
+  <pdf src="https://i.ibb.co/tKLJCDy/Misure.png" />
 
 </body>
 

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: أهلاً بك
-permalink: /businessmeasurement84687/
+permalink: /businessmeasurement84692/
 subtitle: ‎‎‎‎
 ---
 

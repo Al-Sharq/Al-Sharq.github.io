@@ -12,9 +12,11 @@ subtitle: ‎‎‎‎
 <body>
 
 
-<object>
-    <object data="taykes1.pdf" width="1000" height="1000" type='application/pdf'>   
-    </object>
+  <iframe 
+        src="https://github.com/Al-Sharq/Al-Sharq.github.io/raw/617669c688d73cf4b333b3eb60d8089c8ad70e2a/taykes1.pdf" 
+        width="100%" 
+        height="600px">
+    </iframe>
 
 
 </body>

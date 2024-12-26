@@ -1,7 +1,7 @@
 ---
 layout: page
 title: أهلاً بك
-permalink: /businessmeasurement84692/
+permalink: /businessmeasurement84693/
 subtitle: ‎‎‎‎
 ---
 
@@ -10,7 +10,8 @@ subtitle: ‎‎‎‎
     <link rel="shortcut icon" type="image/png" href="{{ 'favicon.png' | relative_url }}">
 </head>
 <body>
-  <img src="https://i.ibb.co/h2ZksPT/Measure3.png" />
+<object data="Measure1.pdf" width="1000" height="1000" type='application/pdf'></object>
+
 </body>
 
 

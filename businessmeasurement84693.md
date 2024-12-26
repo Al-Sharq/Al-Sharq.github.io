@@ -13,7 +13,7 @@ subtitle: ‎‎‎‎
 
 
   <iframe 
-        src="https://github.com/Al-Sharq/Al-Sharq.github.io/raw/617669c688d73cf4b333b3eb60d8089c8ad70e2a/taykes1.pdf" 
+        src="taykes1.pdf" 
         width="100%" 
         height="600px">
     </iframe>

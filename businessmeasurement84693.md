@@ -10,17 +10,11 @@ subtitle: ‎‎‎‎
     <link rel="shortcut icon" type="image/png" href="{{ 'favicon.png' | relative_url }}">
 </head>
 <body>
-
-
-  <iframe 
-        src="taykes1.pdf" 
-        width="100%" 
-        height="600px">
-    </iframe>
-
-
+   <iframe 
+  src="{{ '/assets/taykes1.pdf' | /businessmeasurement84693/ }}" 
+   width="100%" 
+  height="600px">
+</iframe>
+    
 </body>
-Download PDF: https://github.com/Al-Sharq/Al-Sharq.github.io/blob/617669c688d73cf4b333b3eb60d8089c8ad70e2a/Measure1.pdf
-
 </html>
-  

@@ -10,7 +10,7 @@ subtitle: ‎‎‎‎
     <link rel="shortcut icon" type="image/png" href="{{ 'favicon.png' | relative_url }}">
 </head>
 <body>
-<object data="Measure1.pdf" width="1000" height="1000" type='application/pdf'></object>
+<object data="taykes1.pdf" width="1000" height="1000" type='application/pdf'></object>
 
 </body>
 Download PDF: https://github.com/Al-Sharq/Al-Sharq.github.io/blob/617669c688d73cf4b333b3eb60d8089c8ad70e2a/Measure1.pdf

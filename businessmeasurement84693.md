@@ -10,11 +10,9 @@ subtitle: ‎‎‎‎
     <link rel="shortcut icon" type="image/png" href="{{ 'favicon.png' | relative_url }}">
 </head>
 <body>
-   <iframe 
-  src="{{ '/assets/taykes1.pdf' | /businessmeasurement84693/ }}" 
-   width="100%" 
-  height="600px">
-</iframe>
+<object data="taykes1.pdf" width="1000" height="1000" type='application/pdf'></object>
+
+
     
 </body>
 </html>
